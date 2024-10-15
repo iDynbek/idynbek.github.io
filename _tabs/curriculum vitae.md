@@ -32,7 +32,8 @@ toc: false
 
 ### Education
 
-2016-2021 Bachelor of Science in Physics, **Nazarbayev University**, Astana
+2016-2021 Bachelor of Science in Physics, **Nazarbayev University**, 
+
 2021-____ Master of Science in Physics (incomplete), **Nazarbayev University**, Astana
 
 ### Languages
